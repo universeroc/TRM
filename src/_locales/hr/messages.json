@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Tab Resource Monitor za Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Tab Resource Monitor omogućuje vam da vidite sve resurse potrošene za svaku Tab.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Tip",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "uRL",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Bajt",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Pročitajte predmemoriju",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

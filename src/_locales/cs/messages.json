@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Sledování zdrojů tabulátoru pro Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Sledovač zdrojů tabulátoru umožňuje zobrazit veškerý spotřebovaný zdroj každé karty.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Typ",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Byte",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Přečtěte si mezipaměť",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

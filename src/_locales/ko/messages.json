@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google 크롬 용 탭 리소스 모니터",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "탭 리소스 모니터를 사용하면 각 탭에서 소비 된 모든 리소스를 볼 수 있습니다.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "유형",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "URL",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "바이트",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "캐시 읽기",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

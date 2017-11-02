@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Záložka Resource Monitor pre prehliadač Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Tab Resource Monitor umožňuje vidieť všetky zdroje spotrebované z každej karty.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "typ",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Byte",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Prečítajte si cache",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

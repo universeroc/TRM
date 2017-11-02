@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "تاب ريسورس مونيتور فور غوغل كروم",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "تمكنك تاب ريسورس مونيتور من رؤية كل الموارد المستهلكة لكل علامة تبويب.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "اكتب",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "رابط",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "بايت",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "قراءة ذاكرة التخزين المؤقت",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

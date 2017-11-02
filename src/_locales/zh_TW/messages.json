@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome瀏覽器資源監視器",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "選項卡資源監視器可以查看每個選項卡的所有資源消耗。",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "類型",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "網址",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "字節",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "讀緩存",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

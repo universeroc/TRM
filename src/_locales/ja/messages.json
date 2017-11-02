@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chromeのタブリソースモニタ",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "タブリソースモニタを使用すると、各タブで消費されたすべてのリソースを表示できます。",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "タイプ",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "URL",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "バイト",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "キャッシュの読み取り",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

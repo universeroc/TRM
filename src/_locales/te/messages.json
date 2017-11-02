@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome కోసం టాబ్ రిసోర్స్ మానిటర్",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "ట్యాబ్ రిసోర్స్ మానిటర్ మీరు ప్రతి ట్యాబ్లో వినియోగిస్తున్న అన్ని వనరులను చూసేలా చేస్తుంది.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "రకం",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "బైట్",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "కాష్ను చదవండి",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

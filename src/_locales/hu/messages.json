@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Tab Resource Monitor a Google Chrome számára",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "A Tab Resource Monitor lehetővé teszi az egyes táblák összes felhasznált erőforrását.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "típus",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Byte",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Olvassa el a gyorsítótárat",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

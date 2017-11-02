@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Monitor Sumber Tab untuk Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Monitor Sumber Tab membolehkan anda melihat semua sumber yang digunakan oleh setiap Tab.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Taipkan",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Byte",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Baca cache",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

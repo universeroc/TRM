@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome skirtukų išteklių monitorius",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Tab Resource Monitor leidžia pamatyti visus išteklius, sunaudotus kiekviename skirtuke.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Įveskite",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Baitas",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Skaityti talpyklą",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

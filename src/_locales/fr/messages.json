@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Onglet Moniteur de ressources pour Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Le moniteur de ressources d'onglets vous permet de voir toutes les ressources consommées de chaque onglet.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Type",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Octet",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Read cache",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

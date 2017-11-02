@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "مانیتور منابع نوار برای گوگل کروم",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "مانیتور منبع Tab اجازه می دهد تا تمام منابع مورد استفاده در هر Tab را ببینید.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "تایپ کنید",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "آدرس",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "بایت",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "دفعات بازدید: ذخیره",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

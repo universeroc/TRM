@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome साठी टॅब संसाधन मॉनिटर",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "टॅब संसाधन मॉनिटर आपल्याला प्रत्येक टॅबचा वापर केलेला सर्व स्त्रोत पाहू देतो.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "प्रकार",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "बाइट",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "कॅशे वाचा",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

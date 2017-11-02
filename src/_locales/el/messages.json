@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Παρακολούθηση πόρων καρτελών για το Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Το Tab Resource Monitor σάς επιτρέπει να βλέπετε όλους τους πόρους που καταναλώνονται για κάθε καρτέλα.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Τύπος",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Ψηφιόλεξη",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Διαβάστε την προσωρινή μνήμη",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "গুগল ক্রোমের ট্যাব রিসোর্স মনিটর",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "ট্যাব রিসোর্স মনিটর আপনাকে প্রতিটি ট্যাবের ভুবনের সমস্ত সম্পদ দেখতে সক্ষম করে।",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "আদর্শ",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "ইউআরএল",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "সংবাদের একক",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "ক্যাশে পড়ুন",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

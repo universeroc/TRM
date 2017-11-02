@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome നായുള്ള ടാബ് റിസോഴ്സ് മോണിറ്റർ",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "ടാബ് റിസോഴ്സ് മോണിറ്റർ ഓരോ ടാബിലും ഉപയോഗിയ്ക്കുന്ന എല്ലാ റിസോഴ്സുകളും നിങ്ങൾക്കു് ലഭ്യമാക്കുന്നു.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "ടൈപ്പ് ചെയ്യുക",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "ബൈറ്റ്",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "കാഷെ വായിക്കുക",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

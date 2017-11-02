@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Проследяване на ресурсите в таб за Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Табът Resource Monitor ви позволява да виждате всички ресурси, използвани от всеки раздел.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Тип",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "байт",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Прочетете кеша",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

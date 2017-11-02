@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "การตรวจสอบทรัพยากรแท็บสำหรับ Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "แท็บการตรวจสอบทรัพยากรช่วยให้คุณเห็นทรัพยากรทั้งหมดที่บริโภคของแต่ละแท็บ",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "ชนิด",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "ไบต์",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "อ่านแคช",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

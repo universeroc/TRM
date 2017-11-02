@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Monitor de recursos de pestanyes per a Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "El Monitor de recursos de pestanyes us permet veure tots els recursos consumits de cada pestanya.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Escriviu",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Byte",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Llegeix la memòria cau",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

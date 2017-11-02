@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome க்கான தாவல் ஆதார கண்காணி",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "தாவல் ஆதார மானிட்டர் நீங்கள் ஒவ்வொரு தாவலும் உட்கொண்ட அனைத்து ஆதாரங்களையும் பார்க்க உதவுகிறது.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "வகை",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "பைட்",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "கேச் வாசிக்கவும்",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "משאבים משאב עבור",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Tab Resource Monitor מאפשר לך לראות את כל המשאבים הנצרכים של כל כרטיסייה.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "סוּג",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "כתובת אתר",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "בתים",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "קרא את הקובץ השמור",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

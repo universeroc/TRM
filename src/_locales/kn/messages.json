@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "ಗೂಗಲ್ ಕ್ರೋಮ್ಗಾಗಿ ಟ್ಯಾಬ್ ಸಂಪನ್ಮೂಲ ಮಾನಿಟರ್",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "ಪ್ರತಿ ಟ್ಯಾಬ್ನ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಸೇವಿಸುವಂತೆ ಟ್ಯಾಬ್ ಸಂಪನ್ಮೂಲ ಮಾನಿಟರ್ ನಿಮಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "ಕೌಟುಂಬಿಕತೆ",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "ಉರ್ಲ್",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "ಬೈಟ್",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "ಸಂಗ್ರಹವನ್ನು ಓದಿ",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

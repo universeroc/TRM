@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Монитор ресурсов вкладки для Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Вкладка «Монитор ресурсов» позволяет увидеть все ресурсы, потребляемые каждой вкладкой.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Тип",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "Веб-сайт",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Байт",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Чтение кеша",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

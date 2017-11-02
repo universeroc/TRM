@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome浏览器资源监视器",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "选项卡资源监视器可以查看每个选项卡的所有资源消耗。",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "类型",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "网址",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "字节",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "读缓存",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

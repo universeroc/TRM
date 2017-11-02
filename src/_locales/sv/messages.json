@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Tab Resursövervakning för Google Chrome",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Tab Resource Monitor gör det möjligt att se alla resurser som konsumeras av varje flik.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "Typ",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "url",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Byte",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Läs cacheminnet",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}

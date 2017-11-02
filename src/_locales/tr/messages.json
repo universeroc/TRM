@@ -1,0 +1,26 @@
+{
+  "appName": {
+    "message": "Google Chrome için Sekme Kaynak İzleyicisi",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Tab Kaynak İzleyicisi, her Tab'ın tüketilen tüm kaynağını görmenizi sağlar.",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "popupTypeSection": {
+    "message": "tip",
+    "description": "The type section of the requests, displayed in Popup."
+  },
+  "popupUrlSection": {
+    "message": "URL",
+    "description": "The url section of the requests, displayed in Popup."
+  },
+  "popupByteSection": {
+    "message": "Bayt",
+    "description": "The bypes section of the requests, displayed in Popup."
+  },
+  "popupReadCacheSection": {
+    "message": "Okuma önbelleği",
+    "description": "The read cache section of the requests, displayed in Popup."
+  }
+}
